@@ -17,3 +17,11 @@
 - Deployment
 </details>
 
+<details>
+<summary>What is node js</summary>
+
+- Environment to run JS outside Browser
+- Built on Chrome's V8 JS Engine
+- Big Community
+- Full-Stack
+</details>
